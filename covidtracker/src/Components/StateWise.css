@@ -1,0 +1,17 @@
+@font-face {
+    font-family: stateNameFont;
+    src: url(Font-Bold.ttf);
+}
+
+@font-face {
+    font-family: dataFont;
+    src: url(Font-Light.ttf);
+}
+
+#getStateNameFont{
+    font-family: stateNameFont;
+}
+
+#getDataFont{
+    font-family: dataFont;
+}
